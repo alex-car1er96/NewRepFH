@@ -1,2 +1,3 @@
 Text example
 not example!
+//for example
